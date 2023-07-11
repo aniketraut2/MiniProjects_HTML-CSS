@@ -1,0 +1,53 @@
+/*default*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* header */
+header{
+    background-color:darkgreen;
+    color:black;
+    padding: 10px;
+    display: block;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    padding: 10px;
+}
+
+nav li{
+    margin-right: 20px;
+}
+
+nav a {
+    color:whitesmoke;
+    text-decoration: none;
+}
+
+main{
+    margin: 20px;
+}
+
+section{
+    margin-bottom: 20px;
+}
+
+h2{
+    margin-bottom: 10px;
+}
+
+ul{
+    list-style: disc;
+    margin-left: 20px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    
+}
